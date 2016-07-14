@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'JavaScript: Good Parts' },
-    { title: 'Harry Potter' },
-    { title: 'The Dark Tower' },
-    { title: 'Eloquent Ruby'}
+    { title: 'JavaScript: Good Parts', pages: 101 },
+    { title: 'Harry Potter', pages: 39 },
+    { title: 'The Dark Tower', pages: 339 },
+    { title: 'Eloquent Ruby', pages: 1}
   ]
 }
