@@ -5,4 +5,8 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea%
-.DS_Storecd
+.DS_Store
+
+/BookList/node_modules
+/Weather/node_modules
+/YoutubeViewer/node_modules
